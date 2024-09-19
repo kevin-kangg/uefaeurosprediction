@@ -1,5 +1,6 @@
 # UEFA Euros History and 2024 Prediction
-
+## Description
+Euros 2024 predictions utilizing predictive modeling and machine learning.
 ## 1. Objective
 * This project aims to delve into the UEFA Euros' historical significance and contemporary relevance in European football. By analyzing inaugural matches, host cities, and team performances, it seeks to understand the tournament's evolution. Additionally, it examines correlations between World Cup success and Euros performance, competitiveness relative to other continental championships, and the impact of hosting nations. Using predictive modeling, the project forecasts match outcomes and predicts the Euro 2024 winner, providing valuable insights for all and enhancing understanding of tournament dynamics.
 
